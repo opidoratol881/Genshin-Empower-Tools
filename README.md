@@ -1,6 +1,6 @@
 # Genshin Impact Data Analysis and Modification Platform. It's a powerful suite of tools designed for reverse engineering, research, and creative experimentation with Genshin Impact's data. Think of it as a digital playground for the curious and innovative.
 
-![tools](https://imgur.com/tnILcIB)
+![tools](https://i.imgur.com/tnILcIB.png)
 
 
 This platform enables developers and researchers to delve into the intricacies of Genshin Impact's game engine. You can passively observe network data flow, examine runtime memory states, and even implement local game alterations for development purposes. This framework unlocks the potential for new discoveries and personalized experiences.
